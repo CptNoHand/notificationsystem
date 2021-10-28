@@ -1,6 +1,4 @@
 RegisterNetEvent('Notification:Tip', function(text, duration)
-    print(text)
-    print(duration)
     exports.notificationsystem:ShowTooltip(tostring(text), tonumber(duration))
 end)
 
