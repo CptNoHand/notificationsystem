@@ -9,11 +9,3 @@ client_scripts {
 	'notification/cl_notification.js',
 	'notification/cl_notification.lua'
 }
-
-server_scripts {
-	'notification/cl_notification.js'
-}
-
-files {
-	'notification/cl_notification.js'
-}
