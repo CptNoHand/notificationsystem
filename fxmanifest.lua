@@ -6,6 +6,6 @@ description 'Notification System For QBCore RedM'
 version '1.0.0'
 
 client_scripts {
-	'notification/cl_notification.js',
-	'notification/cl_notification.lua'
+	'cl_notification.js',
+	'cl_notification.lua'
 }
